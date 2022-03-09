@@ -1,0 +1,70 @@
+
+@font-face {
+    font-family: "Gotham";
+    src: url('Gotham-Font/Gotham-Light.otf'),
+        url('Gotham-Font/Gotham-Bold.otf');
+}
+
+footer{
+	width:690px;
+	margin:auto;
+	background-color:#dfd0d0;
+	height:100px;
+	margin-bottom:20px
+}
+
+.BigBox{
+	width:690px;
+	background-color:#fff;
+	height:100px;
+	float:left;
+    position: relative;
+    /* overflow: hidden; */
+}
+
+.littleBox_1{
+	width:110px;
+	height:100px;
+    padding: 10px;
+	background-color:#fff;
+	float:left
+}
+
+.littleBox_2{
+	width:170px;
+	height:100px;
+	background-color:#fff;
+	float:left;
+    padding: 10px;
+}
+
+.littleBox_3{
+	width:180px;
+	height:100px;
+	background-color:#fff;
+	float:left
+}
+
+.littleBox_4{
+	width:230px;
+	height:100px;
+	background-color:#fff;
+	float:left
+}
+
+
+.content1{
+
+    border-width: 3px;
+    height: 85px;
+    border-style: solid;
+    border-left:0;
+    border-image: 
+    linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0), rgba(0, 0, 0, 0)) 0 70%;
+
+}
+.green{
+    color:green;
+}
+
+
