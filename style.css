@@ -31,7 +31,7 @@ footer{
 }
 
 .littleBox_2{
-	width:170px;
+	width:140px;
 	height:100px;
 	background-color:#fff;
 	float:left;
@@ -57,6 +57,7 @@ footer{
 
     border-width: 3px;
     height: 85px;
+	border-right-color: green;
     border-style: solid;
     border-left:0;
     border-image: 
