@@ -55,14 +55,14 @@ footer{
 
 .content1{
 
-    border-width: 3px;
-    height: 85px;
+    border-width: 2px;
+    height: 70px;
 	border-right-color: green;
     border-style: solid;
     border-left:0;
     border-image: 
-    linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0), rgba(0, 0, 0, 0)) 0 70%;
-
+    linear-gradient(green, green, green) 0 70%;
+	margin-top: 0.5px;
 }
 .green{
     color:green;
